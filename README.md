@@ -4,7 +4,7 @@ Principal Component Analysis (PCA) is used in machine learning applications to r
 
 Implement PCA with the following steps:
 
-See the [notebook](https://github.com/lephanthutra/PCA-Principle-Components-Analysis/blob/main/PCA_G2.ipynb)
+See the [notebook](https://github.com/lephanthutra/PCA-Principle-Components-Analysis/blob/main/PCA_G2.ipynb) for more detail.
 
 **Step 1**: Subtract the Mean
 
@@ -15,8 +15,6 @@ See the [notebook](https://github.com/lephanthutra/PCA-Principle-Components-Anal
 **Step 4**: Reduce dimensionality and form feature vector
 
 **Step 5**: Derive the data.
-
-See the notebook for more detail.
 
 Source [code](https://colab.research.google.com/drive/12sVqKaYb3WKdFe1yf91TYuwUv6j-5rmJ) in Google Colab.
 
