@@ -4,6 +4,8 @@ Principal Component Analysis (PCA) is used in machine learning applications to r
 
 Implement PCA with the following steps:
 
+See the [notebook](https://github.com/lephanthutra/PCA-Principle-Components-Analysis/blob/main/PCA_G2.ipynb)
+
 **Step 1**: Subtract the Mean
 
 **Step 2**: Calculate the Covariance Matrix.
