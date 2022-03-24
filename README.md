@@ -12,7 +12,7 @@ See the [notebook](https://github.com/lephanthutra/PCA-Principle-Components-Anal
 
 **Step 3**: Calculate Eigenvectors and Eigenvalues of Covariance Matrix.
 
-**Step 4**: Reduce dimensionality and form feature vector
+**Step 4**: Reduce dimensionality and form feature vector.
 
 **Step 5**: Derive the data.
 
@@ -20,7 +20,7 @@ Source [code](https://colab.research.google.com/drive/12sVqKaYb3WKdFe1yf91TYuwUv
 
 # Model Fitting: Linear Regression Model
 
-You can see [this notebook](https://github.com/lephanthutra/PCA-Principle-Components-Analysis/blob/main/Model_Fitting.ipynb)
+See [this notebook](https://github.com/lephanthutra/PCA-Principle-Components-Analysis/blob/main/Model_Fitting.ipynb) for more details.
 
 In this section, I observed the dataset in 3 phases including:
 
@@ -28,7 +28,7 @@ In this section, I observed the dataset in 3 phases including:
 
 - Use **LinearRegression()** from **sklearn.linear_model**.
 
-- The linear regression function is y = 1.004 * x + 0.083
+- The linear regression function is y = 1.004 * x + 0.083.
 
 2. Apply PCA.
 
@@ -38,7 +38,7 @@ In this section, I observed the dataset in 3 phases including:
 
 - Use **LinearRegression()** from **sklearn.linear_model**.
 
-- The linear regression function is y = 0
+- The linear regression function is y = 0.
 
 
 
