@@ -24,17 +24,17 @@ See [this notebook](https://github.com/lephanthutra/PCA-Principle-Components-Ana
 
 In this section, I observed the dataset in 3 phases including:
 
-1. Before applying PCA.
+**1. Before applying PCA.**
 
 - Use **LinearRegression()** from **sklearn.linear_model**.
 
 - The linear regression function is y = 1.004 * x + 0.083.
 
-2. Apply PCA.
+**2. Apply PCA.**
 
 - Apply **PCA** from the **sklearn.decomposition** to the original dataset.
 
-3. After applying PCA.
+**3. After applying PCA.**
 
 - Use **LinearRegression()** from **sklearn.linear_model**.
 
