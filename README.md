@@ -18,5 +18,29 @@ See the [notebook](https://github.com/lephanthutra/PCA-Principle-Components-Anal
 
 Source [code](https://colab.research.google.com/drive/12sVqKaYb3WKdFe1yf91TYuwUv6j-5rmJ) in Google Colab.
 
+# Model Fitting: Linear Regression Model
+
+You can see [this notebook](https://github.com/lephanthutra/PCA-Principle-Components-Analysis/blob/main/Model_Fitting.ipynb)
+
+In this section, I observed the dataset in 3 phases including:
+
+1. Before applying PCA.
+
+- Use **LinearRegression()** from **sklearn.linear_model**.
+
+- The linear regression function is y = 1.004 * x + 0.083
+
+2. Apply PCA.
+
+- Apply **PCA** from the **sklearn.decomposition** to the original dataset.
+
+3. After applying PCA.
+
+- Use **LinearRegression()** from **sklearn.linear_model**.
+
+- The linear regression function is y = 0
+
+
+
 Reference: 
 [1] https://towardsdatascience.com/principal-components-of-pca-bea010cc1d33
