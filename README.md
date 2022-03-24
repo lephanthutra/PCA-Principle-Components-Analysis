@@ -28,7 +28,7 @@ In this section, I observed the dataset in 3 phases including:
 
 - Use **LinearRegression()** from **sklearn.linear_model**.
 
-- The linear regression function is y = 1.004 * x + 0.083.
+- The linear regression function for the original dataset is y = 1.004 * x + 0.083.
 
 **2. Apply PCA.**
 
@@ -38,7 +38,7 @@ In this section, I observed the dataset in 3 phases including:
 
 - Use **LinearRegression()** from **sklearn.linear_model**.
 
-- The linear regression function is y = 0.
+- The linear regression function for the new dataset is y = 0.
 
 
 
