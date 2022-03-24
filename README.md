@@ -1,4 +1,4 @@
-# PCA-Principle-Components-Analysis
+# Principle Components Analysis
 
 Principal Component Analysis (PCA) is used in machine learning applications to reduce the dimensionality of the data. It has been especially useful for image compression among other applications.
 
